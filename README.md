@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Erfan Najafzadeh
-- 👀 I’m interested in Python & C++
-- 🌱 I’m currently working on Python Projects
-- 📫 How to reach me najafzadehwork@gmail.com
-<!---
-erfannjz/erfannjz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi im Erfan Najafzadeh 👋
+<!-- 
+![python](https://img.shields.io/badge/Python-blue) ![c++](https://img.shields.io/badge/C++-yellow) ![c++](https://img.shields.io/badge/SQL-darkblue)
+
+![stats](https://github-readme-stats.vercel.app/api?username=erfannjz&show_icons=true&theme=dark) -->
+- 🗾 I’m from Iran , Gilan
+- 💻 I’m currently working on Discord.py projects
+- 📫 How to reach me: najafzadehwork@gmail.com
