@@ -4,5 +4,5 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=erfannjz&show_icons=true&theme=dark) -->
 - 🗾 I’m from Iran , Gilan
-- 💻 I’m currently working on Discord.py projects
+- 💻 I’m currently working on CSGO-Cheat project
 - 📫 How to reach me: najafzadehwork@gmail.com
