@@ -1,7 +1,7 @@
 ## Hi im Erfan Najafzadeh 👋
 ### 🔹Bio
 - 🗾 I’m from Iran , Gilan
-- 💻 I’m currently working on `Clipboard App`
+- 💻 I’m currently working on `Python Basic Course`
 - 📫 How to reach me:
 >[Email](mailto:najafzadehwork@gmail.com)</br>
 >[Discord](https://discordapp.com/users/702533573470584952/)</br>
