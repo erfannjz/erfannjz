@@ -1,11 +1,9 @@
 ## Hi im Erfan Najafzadeh 👋
 ### 🔹Bio
 - 🗾 I’m from Iran , Gilan
-- 💻 I’m currently learning `Reversal Engineering`.
 - 📫 How to reach me:
->[Email](mailto:najafzadehwork@gmail.com)</br>
->[Discord](https://discordapp.com/users/702533573470584952/)</br>
->[Instagram](https://instagram.com/erfannjz/)
+>[Email](mailto:najafzadeherfan@gmail.com)</br>
+>[Instagram](https://instagram.com/nimanjz/)
 
 ### 🔹Skills
 ![python](https://img.shields.io/badge/Python-blue) ![c++](https://img.shields.io/badge/C++-yellow) ![c++](https://img.shields.io/badge/SQL-darkblue)
