@@ -2,7 +2,7 @@
 ### 🔹Bio
 
 - 🗾 I’m from Iran , Gilan
-- 👨‍💻 I’m currently working on Leopard-AutoTrading bot
+- 👨‍💻 I’m currently working on Nothing!
 - 📫 How to reach me:
 >[Instagram](https://instagram.com/erfannjz/)
 
